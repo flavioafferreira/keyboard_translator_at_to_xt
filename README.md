@@ -6,4 +6,5 @@ Uses a simple STM32C011 with open-drain ports and 5V tolerant inputs, you can in
 
 
 
+
 ⚠️ Low-voltage equipment: Always follow appropriate isolation practices.
